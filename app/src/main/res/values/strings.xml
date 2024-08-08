@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WOM</string>
+    <string name="search">Search</string>
+    <string name="bottom_navigation_home">home</string>
+    <string name="bottom_navigation_profile">profile</string>
+    <string name="title_activity_learning2">LearningActivity2</string>
+    <string name="title_activity_tvshow_list">TVShowListActivity</string>
+
+</resources>
